@@ -1,5 +1,11 @@
 # A *Faster* Pytorch Implementation of Faster R-CNN
 
+
+# this is a modified version of faster-rcnn in pytorch by jwyang
+* I added my own data format
+* 
+
+
 ## Introduction
 
 ### :boom: Good news! This repo supports pytorch-1.0 now!!! We borrowed some code and techniques from [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark). Just go to pytorch-1.0 branch!
